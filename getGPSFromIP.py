@@ -1,6 +1,6 @@
 import requests
 
-keyPath = "/home/luky/Desktop/Projects/IP_location/key"
+keyPath = "key"
 ip_address = "147.228.128.15"
 
 with open(file=keyPath,mode="r") as file:

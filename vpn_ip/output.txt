@@ -1,0 +1,9 @@
+Standard Output:
+-Connecting to Turkey Istanbul Lygos (UDP:443)
+/|\-/|\-/Firewall Enabled
+|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-Connected to Turkey Istanbul Lygos
+Your IP changed from 212.102.63.54 to 149.50.208.99
+
+Standard Error:
+
+Return Code: 0
