@@ -1,0 +1,4 @@
+-Connecting to United Kingdom London Custard (UDP:443)
+/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-/|\-Firewall Enabled
+/|\-/|\-/|\-/|\-/|Connected to United Kingdom London Custard
+Your IP changed from 212.79.110.121 to 84.17.50.197
