@@ -1,0 +1,2 @@
+preconditions:
+installed windscribe
